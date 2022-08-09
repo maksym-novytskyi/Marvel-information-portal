@@ -1,3 +1,6 @@
+Marvel information portal based on Marvel API. In the application, you can switch heroes, get information about them from the server. Implemented the ability to view detailed information about the hero, a list of comics in which they are present. Implemented loading pages of new characters from the server. Search for a character by name. A page with comics has also been implemented, which can also be downloaded. Jump to each individual comic. Obtaining detailed information about it, about the price, about availability.
+Used: React, REST API, React Hooks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
